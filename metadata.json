@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Cartão de Treinador Pokémon",
+  "description": "Crie e personalize seu próprio cartão de treinador Pokémon. Adicione sua foto, selecione sua equipe de seis Pokémon, escolha sua cidade natal para mudar o tema do cartão e envie suas próprias imagens de insígnias de ginásio. Quando terminar, salve o cartão como uma imagem.",
+  "requestFramePermissions": []
+}
